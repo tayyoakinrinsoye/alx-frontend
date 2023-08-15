@@ -127,7 +127,7 @@
     color: var(--color-primary);
   }
 
-  .card-title .card-services {
+  .card-services .card-title {
     margin: 0;
   }
 
